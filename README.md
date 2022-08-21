@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: I'll add that soon.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love Machines more than anything.
--->
