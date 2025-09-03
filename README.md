@@ -1,68 +1,76 @@
-### Hi there 👋 I'm Anurag — a Fullstack Engineer!
+### Hi there 👋 I'm Anurag — a Backend Engineer in the Making!
 
-🔭 I’m currently mastering **Next.js** and **React Native** to build fast, production-ready, and scalable web apps.  
-🌱 I'm focused on mastering **Next.js advanced features** like:
-- App Router & Server Components
-- Middleware and Edge Functions
-- Dynamic Routing and Caching Strategies
-- API Routes & Serverless Functions
-- Image Optimization and Performance Tuning
-- Authentication (NextAuth.js, Clerk, etc.)
-- Deployment with Vercel & CI/CD practices
-- Feature-based scalable folder structures
+🔭 I’m currently transitioning from **fullstack** to **backend-first engineering**, with a strong focus on:  
+- **Java** (core concepts, OOP, DSA)  
+- **Spring Boot** (enterprise backend, APIs, microservices)  
+- **Python** (automation, AI agents, ML/AI foundations)  
 
-👯 I’m looking to collaborate on **Next.js**, **MERN stack**, and **robotics-based web platforms**.  
-🤖 I’m passionate about robotics and would love to learn more — open to **mentorship or collabs** in this space.  
-💬 Ask me about **Fullstack development**, **REST APIs**, **React**, **MongoDB**, **Express**, or **dynamic programming** problems.  
-📫 How to reach me:
-- 🌐 Portfolio: [Coming Soon]
-- 💼 LinkedIn: [Coming Soon]
-- 📧 Email: anuragkumar.wmail@gmai.com
+🌱 I’ve already built backends with **Node.js + Express**, and now I’m deep-diving into **Java + Spring Boot** to become a world-class backend engineer.  
+📝 I’m committing **daily practice code in Java and Python** here on GitHub — documenting my journey in public.  
+
+👯 I’m looking to collaborate on:  
+- Backend-heavy applications (**APIs, microservices, distributed systems**)  
+- AI/ML powered automation tools  
+- Open-source backend utilities  
+
+💬 Ask me about:  
+- **Java backend design (Spring Boot, REST APIs, clean architecture)**  
+- **Backend with Node.js/Express**  
+- **Python automation & scripting**  
+- **Databases (MongoDB, SQL)**  
+- **Scalable system design basics**  
+
+📫 How to reach me:  
+- 🌐 Portfolio: [Coming Soon]  
+- 💼 LinkedIn: [Coming Soon]  
+- 📧 Email: anuragkumar.wmail@gmai.com  
+
 😄 Pronouns: He/Him  
-⚡ Fun fact: I love machines more than most people love coffee ☕🤖 but at the end they go well together.
+⚡ Fun fact: I enjoy building systems that run quietly in the background — automating boring tasks while I sip my coffee ☕🤖  
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+**Core Backend (Current Focus):**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+**Previously Worked With:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
 
-**Database & Tools:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+**Databases & Tools:**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=intellij-idea&logoColor=white)  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragKumarCB&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragKumarCB&layout=compact&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragKumarCB&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragKumarCB&layout=compact&theme=radical)  
 
 ---
 
 ### 🧠 Currently Exploring
-- 🔧 Contributing to **Next.js open-source** projects
-- 🤖 Learning about **robotics software**, control systems, and ROS (Robot Operating System)
+- 📚 Mastering **Java + Spring Boot** for backend excellence  
+- 🐍 Writing **Python automation scripts & AI agents**  
+- 🤖 Starting my journey into **AI/ML**  
 
 ---
 
 ### 🎯 Goals for 2025
-- ✅ Build a full production-grade SaaS with Next.js
-- ✅ Master CI/CD and deployment workflows
-- 🚀 Launch open-source tools and templates
-- 🧩 Collaborate with other developers and teams on real-world projects
+- 🚀 Build multiple **Spring Boot backend projects** (APIs, microservices, enterprise apps)  
+- ✅ Contribute **daily Java & Python practice** to GitHub  
+- 🤖 Explore **AI/ML and automation tools** using Python  
+- 🧩 Collaborate on real-world backend + AI-driven projects  
 
 ---
 
-_Thanks for stopping by! Feel free to connect or drop a message if you want to collaborate._
+_Thanks for visiting my profile! If you’re into backend systems, automation, or AI — let’s connect and build something awesome together._  
