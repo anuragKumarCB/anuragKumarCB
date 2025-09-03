@@ -22,7 +22,7 @@
 
 📫 How to reach me:  
 - 🌐 Portfolio: [Coming Soon]  
-- 💼 LinkedIn: [Coming Soon]  
+- 💼 LinkedIn: https://www.linkedin.com/in/anurag-kumar-go-backend-ai-ready/  
 - 📧 Email: anuragkumar.wmail@gmai.com  
 
 😄 Pronouns: He/Him  
