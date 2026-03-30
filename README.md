@@ -69,7 +69,7 @@ These are not tutorial repos — they are **code-first, concept-driven practice 
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragKumarCB\&show_icons=true\&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.appapi?username=anuragKumarCB&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragKumarCB\&layout=compact\&theme=radical)
 
 ---
