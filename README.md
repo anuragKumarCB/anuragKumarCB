@@ -6,9 +6,6 @@ I focus on building strong foundations across backend systems, data analytics, a
 
 ## 🔭 Current Focus
 
-* **Backend Engineering (Java + Spring Boot)**
-  Building scalable APIs, clean architectures, and system-level thinking
-
 * **Python for Data Analytics**
   Revisiting fundamentals to build stronger analytical workflows and problem-solving ability
 
